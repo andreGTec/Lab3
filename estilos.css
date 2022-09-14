@@ -1,0 +1,10 @@
+body{
+    border-color: black;
+    border-width: 10px;
+    text-align: center;
+    font-family: Arial;
+    padding-top: 140px;
+}
+h1{
+    font-size: small;
+}
